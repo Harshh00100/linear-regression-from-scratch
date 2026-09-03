@@ -148,8 +148,3 @@ This project helps understand:
 ## 👨‍💻 Author
 
 **Harsh Kumar**
-Electronics and Telecommunication Engineering Student
-
-## 📄 License
-
-This project is intended for educational and learning purposes.
